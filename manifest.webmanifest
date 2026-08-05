@@ -1,0 +1,16 @@
+{
+  "name": "全區總控 · Zone X",
+  "short_name": "全區總控",
+  "description": "寶鋪大安展示 · 銷售人員全區總控平板",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#f4f4f5",
+  "theme_color": "#f4f4f5",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

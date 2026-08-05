@@ -1,0 +1,8 @@
+# 這是給業主預覽用的展示版,不希望被搜尋引擎收錄。
+#
+# ⚠️ 注意:noindex 擋的是搜尋引擎的爬蟲,不等於私密。
+#    拿到網址的人一樣看得到。真正的保護是「原始碼不在這個 repo 裡」——
+#    公開的只有編譯後的靜態檔,程式碼、commit 歷史、README 都留在
+#    私有的 VistwinProject/X-Controller。
+User-agent: *
+Disallow: /
